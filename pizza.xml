@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<pizza>
+    <pizza_brand>
+        <menu>
+            <pizza_category>
+            <pizza_speciality>
+                <types_of_pizza>
+                    <pizza_name>Carbonara Supreme</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 429.00</pizza_price>
+                </types_of_pizza>
+            </pizza_speciality>
+            <pizza_supreme>
+                <types_of_pizza>
+                    <pizza_name>BBQ Chicken Supreme</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 399.00</pizza_price>
+                </types_of_pizza>
+            </pizza_supreme>
+            </pizza_category>
+        </menu>
+    </pizza_brand>
+
+    <pizza_brand>
+        <menu>
+            <pizza_category>
+            <pizza_speciality>
+                <types_of_pizza>
+                    <pizza_name>Overload Summer Bundle with FREE Overload Rewards Card (Good 4 for pax)</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 699.00</pizza_price>
+                </types_of_pizza>
+            </pizza_speciality>
+            <pizza_supreme>
+                <types_of_pizza>
+                    <pizza_name>Hawaiian Overload</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 133.00</pizza_price>
+                </types_of_pizza>
+            </pizza_supreme>
+            </pizza_category>
+        </menu>
+    </pizza_brand>
+    
+    <pizza_brand>
+        <menu>
+            <pizza_category>
+            <pizza_speciality>
+                <types_of_pizza>
+                    <pizza_name>Classic Beef N' Onion</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 319.00</pizza_price>
+                </types_of_pizza>
+            </pizza_speciality>
+            <pizza_supreme>
+                <types_of_pizza>
+                    <pizza_name>Super 2023 Gold Meal Deal</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 2,399.00</pizza_price>
+                </types_of_pizza>
+            </pizza_supreme>
+            </pizza_category>
+        </menu>
+    </pizza_brand>
+
+    <pizza_brand>
+        <menu>
+            <pizza_category>
+            <pizza_speciality>
+                <types_of_pizza>
+                    <pizza_name>Tuna Delight</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 419.00</pizza_price>
+                </types_of_pizza>
+            </pizza_speciality>
+            <pizza_supreme>
+                <types_of_pizza>
+                    <pizza_name>Cheese Mania</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 169.00</pizza_price>
+                </types_of_pizza>
+            </pizza_supreme>
+            </pizza_category>
+        </menu>
+    </pizza_brand>
+
+    <pizza_brand>
+        <menu>
+            <pizza_category>
+            <pizza_speciality>
+                <types_of_pizza>
+                    <pizza_name>Carbonara Supreme</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 419.00</pizza_price>
+                </types_of_pizza>
+            </pizza_speciality>
+            <pizza_supreme>
+                <types_of_pizza>
+                    <pizza_name>Cheese Mania</pizza_name>
+                    <pizza_size>Regular</pizza_size>
+                    <pizza_price>₱ 419.00</pizza_price>
+                </types_of_pizza>
+            </pizza_supreme>
+            </pizza_category>
+        </menu>
+    </pizza_brand>
+</pizza>
